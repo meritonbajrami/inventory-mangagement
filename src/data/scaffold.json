@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "nr": 1,
+    "item": "Blue Widget",
+    "quantity": 3,
+    "description": "A popular tool used in construction.",
+    "notes": "Urgently needed for the Smith project."
+  },
+  {
+    "nr": 2,
+    "item": "Red Valve",
+    "quantity": 7,
+    "description": "Used in plumbing for hot water adjustment.",
+    "notes": "Check compatibility with existing systems."
+  },
+  {
+    "nr": 3,
+    "item": "Green Pump",
+    "quantity": 5,
+    "description": "Efficient water pump for gardening purposes.",
+    "notes": "Backorder expected due to high demand."
+  },
+  {
+    "nr": 4,
+    "item": "Yellow Lightbulb",
+    "quantity": 15,
+    "description": "Low-energy consumption and long-lasting.",
+    "notes": "Verify wattage requirements with clients."
+  },
+  {
+    "nr": 5,
+    "item": "Black Cable",
+    "quantity": 30,
+    "description": "High-quality electrical cable.",
+    "notes": "Special discount available for bulk orders."
+  },
+  {
+    "nr": 6,
+    "item": "White Board",
+    "quantity": 12,
+    "description": "Smooth surface ideal for writing and drawing.",
+    "notes": "Include markers and erasers in the package."
+  },
+  {
+    "nr": 7,
+    "item": "Purple Gloves",
+    "quantity": 20,
+    "description": "Durable and resistant for laboratory use.",
+    "notes": "Latex-free options needed for some staff."
+  },
+  {
+    "nr": 8,
+    "item": "Orange Helmet",
+    "quantity": 8,
+    "description": "Safety equipment for construction workers.",
+    "notes": "Ensure sizes are varied to fit all employees."
+  },
+  {
+    "nr": 9,
+    "item": "Silver Screwdriver",
+    "quantity": 10,
+    "description": "Multi-use tool with interchangeable heads.",
+    "notes": "Check for the latest model with enhanced grip."
+  },
+  {
+    "nr": 10,
+    "item": "Gold Nails",
+    "quantity": 100,
+    "description": "Rust-proof and sturdy for outdoor use.",
+    "notes": "Confirm sizes needed for the upcoming projects."
+  },
+  {
+    "nr": 11,
+    "item": "Cyan Tape",
+    "quantity": 25,
+    "description": "Waterproof and strong for sealing pipes.",
+    "notes": "Review inventory levels before end of quarter."
+  },
+  {
+    "nr": 12,
+    "item": "Magenta Drill",
+    "quantity": 4,
+    "description": "Powerful and easy to handle for all users.",
+    "notes": "Safety training required before use on site."
+  },
+  {
+    "nr": 13,
+    "item": "Indigo Spanner",
+    "quantity": 18,
+    "description": "Versatile tool for tightening and loosening.",
+    "notes": "Consider adding to every new tool kit assembled."
+  }
+]

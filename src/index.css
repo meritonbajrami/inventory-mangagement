@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  @apply font-sans;
+}
+
+body {
+  margin: 0px;
+  padding: 2px;
+  box-sizing: border-box;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #f4f5f6;
+}
+
+.ant-table-title {
+  padding: 0px !important;
+}
+
+.ant-table-cell {
+  border: none;
+}
+
+th.ant-table-cell::before {
+  width: 0px !important;
+}
+.ant-table-wrapper table {
+  width: auto;
+}
+@media screen and (min-width: 768px) {
+  .ant-table-wrapper table {
+    width: 100%;
+  }
+}
+
+th.ant-table-cell {
+  background-color: white !important;
+  font-size: 16px !important;
+}
+div.ant-modal-content {
+  padding: 0px !important;
+}
+div.ant-space-item {
+  width: 100% !important;
+}
+
+ul.ant-dropdown-menu {
+  padding: 0px !important;
+  border-radius: 0px 0px 8px 8px !important;
+  margin-top: -5px !important;
+}
+
+li.ant-dropdown-menu-item {
+  border-radius: 0px !important;
+  border-bottom: 1px solid #efefef;
+}
+
+.hide-selected-items .ant-select-selection-item {
+  display: none;
+}
+
+.select-menu {
+  width: 100%;
+  padding: 0 !important;
+  border-radius: 0px 0px 8px 8px;
+}
+
+.ant-select-dropdown .ant-select-item {
+  margin: 0;
+  padding: 0;
+  min-height: unset;
+}
+
+.ant-select-item.ant-select-item-option-selected span {
+  display: none !important;
+}
+div.ant-select-selector {
+  background: #f8f8fa !important;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.custom-select div.ant-select-selector {
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+
+.custom-table td.ant-table-cell {
+  display: none !important;
+  height: 100vh !important;
+}
+.custom-table th.ant-table-cell {
+  display: none !important;
+}

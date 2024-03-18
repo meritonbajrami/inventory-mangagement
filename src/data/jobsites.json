@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "jobsiteName": "7066 S 6nd Blvd, Los Angeles, CA",
+    "status": "Completed",
+    "categories": ["sidewalkShed", "scaffold"]
+  },
+  {
+    "id": "2",
+    "jobsiteName": "5029 N 19nd Ave, Brooklyn, NY",
+    "status": "On Hold",
+    "categories": ["shoring"]
+  },
+  {
+    "id": "3",
+    "jobsiteName": "7294 W 17nd Ave, Brooklyn, NY",
+    "status": "In Progress",
+    "categories": ["sidewalkShed", "shoring"]
+  },
+  {
+    "id": "4",
+    "jobsiteName": "2438 N 4nd St, Brooklyn, NY",
+    "status": "In Progress",
+    "categories": ["scaffold"]
+  },
+  {
+    "id": "5",
+    "jobsiteName": "3188 W 28nd Ave, Los Angeles, CA",
+    "status": "Completed",
+    "categories": ["scaffold", "sidewalkShed"]
+  },
+  {
+    "id": "6",
+    "jobsiteName": "6206 N 1nd Blvd, Houston, TX",
+    "status": "Completed",
+    "categories": ["shoring", "sidewalkShed"]
+  },
+  {
+    "id": "7",
+    "jobsiteName": "8682 S 36nd Ave, Houston, TX",
+    "status": "In Progress",
+    "categories": ["shoring", "scaffold"]
+  },
+  {
+    "id": "8",
+    "jobsiteName": "8793 W 50nd Ave, Los Angeles, CA",
+    "status": "Completed",
+    "categories": ["sidewalkShed"]
+  },
+  {
+    "id": "9",
+    "jobsiteName": "287 E 36nd Rd, Los Angeles, CA",
+    "status": "In Progress",
+    "categories": ["scaffold", "shoring"]
+  },
+  {
+    "id": "10",
+    "jobsiteName": "3747 N 46nd Rd, Los Angeles, CA",
+    "status": "In Progress",
+    "categories": ["sidewalkShed", "scaffold", "shoring"]
+  },
+  {
+    "id": "11",
+    "jobsiteName": "8773 N 34nd St, Brooklyn, NY",
+    "status": "In Progress",
+    "categories": ["sidewalkShed"]
+  },
+  {
+    "id": "12",
+    "jobsiteName": "159 N 41nd Rd, Brooklyn, NY",
+    "status": "In Progress",
+    "categories": ["shoring", "sidewalkShed"]
+  },
+  {
+    "id": "13",
+    "jobsiteName": "8236 W 49nd St, Los Angeles, CA",
+    "status": "On Hold",
+    "categories": ["scaffold", "shoring"]
+  },
+  {
+    "id": "14",
+    "jobsiteName": "6791 N 36nd Ave, Phoenix, AZ",
+    "status": "In Progress",
+    "categories": ["sidewalkShed"]
+  },
+  {
+    "id": "15",
+    "jobsiteName": "7370 N 22nd Rd, Chicago, IL",
+    "status": "On Hold",
+    "categories": ["scaffold", "sidewalkShed"]
+  },
+  {
+    "id": "16",
+    "jobsiteName": "1909 W 13nd Blvd, Los Angeles, CA",
+    "status": "In Progress",
+    "categories": ["shoring"]
+  },
+  {
+    "id": "17",
+    "jobsiteName": "6368 E 37nd Rd, Chicago, IL",
+    "status": "In Progress",
+    "categories": ["shoring", "sidewalkShed"]
+  },
+  {
+    "id": "18",
+    "jobsiteName": "2325 W 26nd Rd, Phoenix, AZ",
+    "status": "In Progress",
+    "categories": ["scaffold"]
+  },
+  {
+    "id": "19",
+    "jobsiteName": "2532 E 49nd Ave, Chicago, IL",
+    "status": "Completed",
+    "categories": ["shoring", "scaffold"]
+  },
+  {
+    "id": "20",
+    "jobsiteName": "4606 E 44nd Ave, Brooklyn, NY",
+    "status": "In Progress",
+    "categories": ["scaffold", "shoring"]
+  }
+]
